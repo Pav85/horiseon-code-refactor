@@ -12,9 +12,11 @@ My website will meet accessibility standards when achieving the following:
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-## Instalation
+## Installation
 
-N/A
+After opening this Url:"https://pav85.github.io/horiseon-code-refactor/" you should see this:
+
+![Horiseon webpage](./assets/images/Horseon%20deplyed%20page.png)
 
 ## Usage
 
