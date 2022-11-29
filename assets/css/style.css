@@ -100,18 +100,18 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+/* in the line below class selector was changed from h3 to h2 to keep webpage working after modifying html file  */
+.benefit-lead h2 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-brand h3 {
+/* in the line below class selector was changed from h3 to h2 to keep webpage working after modifying html file */
+.benefit-brand h2 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-cost h3 {
+/* in the line below class selector was changed from h3 to h2 to keep webpage working after modifying html file */
+.benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -194,7 +194,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* in the line below class selector was changed from h3 to h4 to keep webpage working after modifying html file */
+.footer h4 {
     font-size: 20px;
 }
